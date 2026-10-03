@@ -1,0 +1,10 @@
+## Visual Studio / .NET ignores
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+packages/
+*.nupkg
